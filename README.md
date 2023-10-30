@@ -45,5 +45,3 @@ To use this project, simply make requests to the [AirLabs API](https://airlabs.c
 
 - Special thanks to [AirLabs](https://airlabs.co/) for providing the Real-Time Flight Data API.
 ```
-
-Este es un ejemplo de cómo podría verse un archivo "Readme.md" para tu proyecto que describa el propósito, uso y agradecimientos. Asegúrate de crear un archivo "LICENSE.md" si deseas incluir detalles sobre la licencia de tu proyecto.
